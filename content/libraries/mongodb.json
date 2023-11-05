@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/mongodb.jpeg",
+  "name": "MongoDB",
+  "url": "https://www.mongodb.com/",
+  "repo": {
+    "owner": "mongodb",
+    "name": "mongo"
+  },
+  "categories": ["nosql", "open-source", "cloud"]
+}

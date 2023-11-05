@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/cassandra.svg",
+  "name": "Cassandra",
+  "url": "https://cassandra.apache.org/",
+  "repo": {
+    "owner": "apache",
+    "name": "cassandra"
+  },
+  "categories": ["graph", "open-source"]
+}

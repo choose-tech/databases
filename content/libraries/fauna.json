@@ -1,0 +1,7 @@
+{
+  "logo": "../../assets/content/libraries/fauna.svg",
+  "name": "Fauna",
+  "description": "Fauna is a fast, reliable, consistent relational database that spans regions or the globe, with a TypeScript-inspired developer experience on data stored in documents.",
+  "url": "https://fauna.com/",
+  "categories": ["nosql", "relational", "cloud"]
+}

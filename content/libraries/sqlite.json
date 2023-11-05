@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/sqlite.svg",
+  "name": "SQLite",
+  "url": "https://www.sqlite.org/",
+  "repo": {
+    "owner": "sqlite",
+    "name": "sqlite"
+  },
+  "categories": ["relational", "open-source"]
+}

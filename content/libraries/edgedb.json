@@ -1,0 +1,11 @@
+{
+  "logo": "../../assets/content/libraries/edgedb.svg",
+  "name": "EdgeDB",
+  "url": "https://www.edgedb.com/",
+  "repo": {
+    "owner": "edgedb",
+    "name": "edgedb"
+  },
+  "implies": ["postgresql"],
+  "categories": ["graph", "relational", "open-source", "cloud"]
+}

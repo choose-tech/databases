@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/redis.svg",
+  "name": "Redis",
+  "url": "https://redis.io/",
+  "repo": {
+    "owner": "redis",
+    "name": "redis"
+  },
+  "categories": ["nosql", "open-source", "cloud"]
+}

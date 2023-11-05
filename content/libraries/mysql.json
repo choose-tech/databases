@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/mysql.svg",
+  "name": "MySQL",
+  "url": "https://www.mysql.com/",
+  "repo": {
+    "owner": "mysql",
+    "name": "mysql-server"
+  },
+  "categories": ["relational", "open-source", "cloud"]
+}

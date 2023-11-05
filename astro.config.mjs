@@ -1,10 +1,10 @@
 import { defineConfig } from "@choose-tech/astro/config";
 
 export default defineConfig({
-  name: "template",
-  title: "Template",
-  description: "",
-  color: "#3b82f6",
-  repo: "choose-tech/template",
+  name: "databases",
+  title: "Databases",
+  description: "Easily compare various databases.",
+  color: "#14b8a6",
+  repo: "choose-tech/databases",
   logoFilename: "logo.svg",
 });

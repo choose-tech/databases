@@ -1,0 +1,10 @@
+{
+  "logo": "../../assets/content/libraries/postgresql.svg",
+  "name": "PostgreSQL",
+  "url": "https://www.postgresql.org/",
+  "repo": {
+    "owner": "postgres",
+    "name": "postgres"
+  },
+  "categories": ["relational", "open-source"]
+}
